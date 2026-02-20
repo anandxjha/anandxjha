@@ -1,106 +1,77 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Jha</h1>
-<h3 align="center">B.Tech IT Student | Software Developer</h3>
+<h3 align="center">B.Tech IT Student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Java+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandxjha&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=anandxjha&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Information Technology Student  
-- 💻 Strong foundation in DSA, OOPS, DBMS  
-- 🌐 Building Full Stack Web Applications  
-- 🤖 Exploring Machine Learning  
-- 🎯 Focused on becoming a professional Software Developer  
+🎓 B.Tech Information Technology Student  
+💻 Passionate about Software Development  
+🌐 Focused on Full Stack Web Development  
+🤖 Learning Machine Learning and Backend Development  
+🎯 Goal: Software Developer  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45"/>
-</p>
+---
 
-### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-</p>
+## 🗄️ Database
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
-</p>
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-</p>
+---
 
-## 📊 GitHub Analytics
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandxjha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandxjha&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandxjha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandxjha&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/anandxjha" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:jhaanand1104@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
 
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandxjha)
+
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaanand1104@gmail.com)
 ---
 
 ## 💡 Quote
 
-> Consistency builds mastery.
+Consistency builds mastery.
 
 ---
 
-⭐ Always learning. Always building.
+💌 From Anand Kumar Jha
