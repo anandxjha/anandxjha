@@ -68,10 +68,3 @@
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaanand1104@gmail.com)
 ---
 
-## 💡 Quote
-
-Consistency builds mastery.
-
----
-
-💌 From Anand Kumar Jha
