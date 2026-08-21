@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Jha</h1>
-<h3 align="center">B.Tech IT Student </h3>
+
+<h3 align="center">Final-Year B.Tech Information Technology Student | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Java+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=750&lines=Java+Spring+Boot+Developer;Full+Stack+Developer;React+Developer;REST+API+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -13,44 +14,65 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Information Technology Student  
-💻 Passionate about Software Development  
-🌐 Focused on Full Stack Web Development  
-🤖 Learning Machine Learning and Backend Development  
-🎯 Goal: Software Developer  
+🎓 Final-year B.Tech Information Technology student 
+💻 Passionate about building full-stack web applications
+☕ Focused on Java and Spring Boot development
+🌐 Experienced with React.js and REST API development
+🗄️ Working with MySQL and relational database systems
+🔐 Interested in authentication, CRUD applications, and backend development
+🧠 Strong foundation in core computer science concepts
+🎯 Goal: Become a skilled Software Developer
 
 ---
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 👨‍💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🗄️ Database
+## 🧠 Core Computer Science
 
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2C2C2C?style=for-the-badge)
+![OOPS](https://img.shields.io/badge/OOPS-2C2C2C?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-2C2C2C?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-2C2C2C?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-2C2C2C?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-2C2C2C?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-2C2C2C?style=for-the-badge)
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandxjha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandxjha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" />
+</p>
 
 ---
 
-## 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -59,12 +81,26 @@
 
 ---
 
+## 🌐 Connect With Me
 
+<p align="center">
 
-## 🌐 Connect
+<a href="https://linkedin.com/in/anandxjha">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandxjha)
+<a href="mailto:jhaanand1104@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhaanand1104@gmail.com)
+<a href="https://github.com/anandxjha">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
 ---
 
+<p align="center">
+  <i>💡 Building, learning, and growing as a software developer.</i>
+</p>
